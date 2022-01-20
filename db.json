@@ -26,19 +26,5 @@
 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 "date": "18/01/2022",
 "pad": "https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-2.pdf?alt=media&token=da36ec0e-567e-4618-ae21-fb374633bd5d"
-},
-{
-"id": 5,
-"name": "Fichero 5",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-"date": "18/01/2022",
-"pad": "https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-3.pdf?alt=media&token=346adb01-3b6a-4928-8cbb-cb47a0f13616"
-},
-{
-"id": 6,
-"name": "Fichero 6",
-"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-"date": "18/01/2022",
-"pad": "https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-4.pdf?alt=media&token=84cd02f6-517f-4d6e-9299-f5981b92aeec"
 }
 ]
