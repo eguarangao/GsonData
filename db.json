@@ -1,5 +1,5 @@
-[
 {
+"ArchivosPdf":[{
 "id": 1,
 "name": "Fichero 1",
 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -28,3 +28,4 @@
 "pad": "https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-2.pdf?alt=media&token=da36ec0e-567e-4618-ae21-fb374633bd5d"
 }
 ]
+}
