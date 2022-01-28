@@ -28,4 +28,42 @@
 "pad": "https://firebasestorage.googleapis.com/v0/b/inlaid-lane-281023.appspot.com/o/docs%2FAPW%20TI-2.pdf?alt=media&token=da36ec0e-567e-4618-ae21-fb374633bd5d"
 }
 ]
+   "UTEQ": [
+    {"name":"Facultad de Ciencias de la Ingeniería",
+     "decano":"Ing. Washington Chiriboga Casanova",
+     "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
+     "phone":"(+593) 5 3702-220 Ext. 8052",
+     "img":"https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+     "lat":-1.080257,"alt":-79.501652},
+    {"name":"Facultad de Ciencias Agropecuarias",
+     "decano":"Ing. Rolando López Tobar",
+     "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
+     "phone":"(+593) 5 3702-220 Ext. 8067",
+     "img":"https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg",
+     "lat":-1.080316,"alt":-79.502389},
+    {"name":"Facultad de Ciencias de la Industria y Producción",
+     "decano":"Ing. Henry Nelson Aguilera Vidal",
+     "direccion":"Campus “La María” - km 7 vía Quevedo-El Empalme",
+     "phone":"(+593) 5 3702-220 Ext. 8025",
+     "img":"https://www.uteq.edu.ec/images/about/logo_fcip.jpg",
+     "lat":-1.080802,"alt":-79.501709},
+    {"name":"Facultad de Ciencias Empresariales",
+     "decano":"Ing. Magali Gioconda Calero Lara",
+     "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+     "phone":"(+593) 5 3702-220 Ext. 8038",
+     "img":"https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+     "lat":-1.012214,"alt":-79.469327},
+    {"name":"Facultad de Ciencias de la Salud",
+     "decano":"Ing. Magali Gioconda Calero Lara",
+     "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+     "phone":"(+593) 5 3702-220 Ext. 8001",
+     "img":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
+     "lat":-1.012407,"alt":-79.469925},
+    {"name":"Facultad de Ciencias de la Educación",
+     "decano":"Psi. Pablo Alberto Parra Silva",
+     "direccion":"Campus Ingeniero Manuel Agustín Haz Álvarez - Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+     "phone":"(+593) 5 3702-220 Ext. 8066",
+     "img":"https://www.uteq.edu.ec/images/escudouteq.png",
+     "lat":-1.012761,"alt":-79.470806}
+  ]
 }
